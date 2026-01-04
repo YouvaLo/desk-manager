@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desk-manager", "desk-manager.csproj", "{E99C98E7-32B8-FB15-550E-B67FDA12E4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E99C98E7-32B8-FB15-550E-B67FDA12E4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99C98E7-32B8-FB15-550E-B67FDA12E4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99C98E7-32B8-FB15-550E-B67FDA12E4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99C98E7-32B8-FB15-550E-B67FDA12E4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9BDC2A-10FA-4B1D-BDD4-C9023E9E8646}
+	EndGlobalSection
+EndGlobal
